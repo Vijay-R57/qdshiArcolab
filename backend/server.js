@@ -59,6 +59,7 @@ app.use(cors({
       process.env.FRONTEND_URL,
       'https://og-qdshi.vercel.app',
       'https://qdsharcolab.vercel.app',
+      'https://arcolab-huddle.vercel.app',
       'http://localhost:3000',
       'http://localhost:8080',
     ].filter(Boolean);
